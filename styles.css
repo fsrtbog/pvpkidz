@@ -38,8 +38,8 @@ h1 {
 }
 
 .minimal-button {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 30px;
     background-color: #4A4A4A;
     color: #FFFFFF;
     border: none;
