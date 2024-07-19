@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 80vh;
     background-color: #2C2C2C;
     color: #FFFFFF;
 }
@@ -19,8 +19,8 @@ body {
 }
 
 .profile-photo {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 20px;
@@ -34,7 +34,7 @@ h1 {
 .button-container {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 12px;
 }
 
 .minimal-button {
